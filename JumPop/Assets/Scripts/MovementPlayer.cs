@@ -41,11 +41,7 @@ public class MovementPlayer : MonoBehaviour
      
      
      {
-        // if (instance1.transform.position.y <= playerHeightY - 10)
-         //{
-          //   Destroy(instance1)
-         // }
-         
+        
          
          // GYROSCOPE/ACCELERATOR INPUT FOR THE PLAYER MOVEMENT//
         
@@ -118,8 +114,8 @@ public class MovementPlayer : MonoBehaviour
      // end of fixedUpdate Method
      void platformManager()
      {
-         platCheck = player.position.y + 15;
-         platformSpawner(platCheck+15);
+         platCheck = player.position.y + 10;
+         platformSpawner(platCheck+ 10);
         
      }
      void platformSpawner(float floatValue)

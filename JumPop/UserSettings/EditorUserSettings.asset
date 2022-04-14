@@ -18,7 +18,10 @@ EditorUserSettings:
       value: 22424703114646680e0b0227036c78111b1227192f2d2835633c133af6f9
       flags: 0
     UnityRemoteDevice:
-      value: 225f4d46245b0d4902070862342649191512
+      value: 010004045c05080f5f0a542647260c1110461c2b78782460292b1932b3b16c3ab6e463b0e138683e
+      flags: 0
+    UnityRemoteResolution:
+      value: 2d5e460b0459
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
